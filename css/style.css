@@ -153,6 +153,7 @@ header .eng {
 	position: absolute;
 	left: 198.18px;
 	top: 363.89px;
+	width: 683.85px;
 }
 
 .row1 p:last-child {
@@ -162,6 +163,7 @@ header .eng {
 	position: absolute;
 	left: 197.18px;
 	top: 708.89px;
+	width: 497.77px;
 }
 
 p span {
@@ -270,6 +272,7 @@ p span {
 	left: 1053.68px;
 	top: 398.3px;
 	width: 576.5px;
+	text-align: right;
 }
 
 #banner p:last-child {
