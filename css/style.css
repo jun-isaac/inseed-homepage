@@ -236,19 +236,19 @@ p span {
 
 #banner {
 	position: absolute;
-	top: 1963px;
+	top: 1853px;
 }
 
 .about {
 	position: absolute;
 	left: 931.18px;
-	top: -110px;
+	top: 0px;
 }
 
 
 #banner img {
 	position: absolute;
-	top: 0px;
+	top: 110px;
 }
 
 #banner p:nth-child(3) {
@@ -258,7 +258,7 @@ p span {
 	color: #fff;
 	position: absolute;
 	left: 300.18px;
-	top: 1989.89px;
+	top: 146.89px;
 }
 
 #banner p:nth-child(4) {
@@ -268,7 +268,7 @@ p span {
 	color: var(--sub-banner-color);
 	position: absolute;
 	left: 1053.68px;
-	top: 2241.3px;
+	top: 398.3px;
 	width: 576.5px;
 }
 
@@ -279,76 +279,77 @@ p span {
 	color: var(--main-text-color);
 	position: absolute;
 	left: 647.18px;
-	top: 2424.3px;
+	top: 581.3px;
 	width: 625.19px;
 }
 
 /* service section */
 
-.service {
+#service {
 	position: absolute;
-	left: 925.18px;
+	text-align: center;
 	top: 2586.89px;
 }
+
 
 .imc {
 	position: absolute;
 	left: 354px;
-	top: 2676px;
+	top: 100px;
 }
 
 .imc-bg {
 	position: absolute;
 	left: 326px;
-	top: 2648px;
+	top: 70px;
 }
 
 .digital-mkt {
 	position: absolute;
 	left: 642px;
-	top: 2676px;
+	top: 100px;
 }
 
 .digital-mkt-bg {
 	position: absolute;
 	left: 614px;
-	top: 2648px;
+	top: 75px;
 }
 
 .issue-mkt{
 	position: absolute;
 	left: 929px;
-	top: 2676px;
+	top: 100px;
 }
 
 .issue-mkt-bg{
 	position: absolute;
 	left: 901px;
-	top: 2648px;
+	top: 75px;
 }
 
 .mkt-channels {
 	position: absolute;
 	left: 1215px;
-	top: 2676px;
+	top: 100px;
 }
 
 .mkt-channels-bg {
 	position: absolute;
 	left: 1187px;
-	top: 2648px;
+	top: 75px;
 }
 
 .start-up-edu {
 	position: absolute;
 	left: 1502px;
-	top: 2676px;
+	top: 100px;
 }
 
 .start-up-edu-bg {
 	position: absolute;
 	left: 1476px;
-	top: 2645px;
+	top: 65px;
 }
 
 .service-head {
@@ -368,100 +369,100 @@ p span {
 .imc-head {
 	position: absolute;
 	left: 366.18px;
-	top: 2795.69px;
+	top: 208.8px;
 }
 
 .imc-text {
 	position: absolute;
 	left: 280.77px;
-	top: 2846.1px;
+	top: 259.21px;
 }
 
 .digital-mkt-head {
 	position: absolute;
 	left: 606.18px;
-	top: 2795.69px;
+	top: 208.8px;
 }
 
 .digital-mkt-text {
 	position: absolute;
 	left: 545.86px;
-	top: 2846.1px;
+	top: 259.21px;
 }
 
 .issue-mkt-head {
 	position: absolute;
 	left: 904.18px;
-	top: 2795.69px;
+	top: 208.8px;
 	width: 110.14px;
 }
 
 .issue-mkt-text {
 	position: absolute;
 	left: 826.36px;
-	top: 2846.1px;
+	top: 259.21px;
 	width: 269.65px;
 }
 
 .mkt-channels-head {
 	position: absolute;
 	left: 1174.18px;
-	top: 2795.69px;
+	top: 208.8px;
 	width: 144.09px;
 }
 
 .mkt-channels-text {
 	position: absolute;
 	left: 1124.72px;
-	top: 2846.1px;
+	top: 259.21px;
 	width: 242.93px;
 }
 
 .start-up-head {
 	position: absolute;
 	left: 1460.18px;
-	top: 2795.69px;
+	top: 208.8px;
 	width: 148.77px;
 }
 
 .start-up-text {
 	position: absolute;
 	left: 1402px;
-	top: 2846.1px;
+	top: 259.21px;
 	width: 264.38px;
 }
 
 
 /* process section */
 
-.process {
+#process {
 	position: absolute;
-	left: 921.18px;
+	text-align: center;
 	top: 3173.89px;
 }
 
 .arrow {
 	position: absolute;
 	left: 198px;
-	top: 3246px;
+	top: 92.11px;
 }
 
 .arrow-line {
 	position: absolute;
 	left: 399px;
-	top: 3312px;
+	top: 158.11px;
 }
 
 .arrow-point {
 	position: absolute;
 	left: 395px;
-	top: 3388px;
+	top: 234.11px;
 }
 
 .arrow-wave {
 	position: absolute;
 	left: 320px;
-	top: 3390px;
+	top: 236.11px;
 }
 
 .process-head {
@@ -481,127 +482,133 @@ p span {
 .define-head {
 	position: absolute;
 	left: 362.18px;
-	top: 3535.69px;
+	top: 381.8px;
 }
 
 .define-text1 {
 	position: absolute;
 	left: 354.94px;
-	top: 3586.1px;
+	top: 432.21px;
 }
 
 .define-text2 {
 	position: absolute;
 	left: 365.94px;
-	top: 3656.1px;
+	top: 502.21px;
 }
 
 .plan-head {
 	position: absolute;
 	left: 722.18px;
-	top: 3213.69px;
+	top: 59.8px;
 }
 
 .plan-text1 {
 	position: absolute;
 	left: 710.2px;
-	top: 3264.1px;
+	top: 110.21px;
 }
 
 .plan-text2 {
 	position: absolute;
 	left: 685.2px;
-	top: 3308.1px;
+	top: 154.21px;
 }
 
 .execute-head {
 	position: absolute;
 	left: 1046.18px;
-	top: 3551.69px;
+	top: 397.8px;
 }
 
 .execute-text1 {
 	position: absolute;
 	left: 1068.89px;
-	top: 3599.1px;
+	top: 445.21px;
 }
 
 .execute-text2 {
 	position: absolute;
 	left: 1030.89px;
-	top: 3643px;
+	top: 489.11px;
 	width: 130px;
 }
 
 .execute-text3 {
 	position: absolute;
 	left: 992.89px;
-	top: 3687px;
+	top: 533.11px;
 	width: 212px;
 }
 
 .report-head {
 	position: absolute;
 	left: 1401.18px;
-	top: 3231.69px;
+	top: 59.8px;
 }
 
 .report-text {
 	position: absolute;
 	left: 1393.87px;
-	top: 3282.1px;
+	top: 128.21px;
 	width: 98.62px;
 }
 
 .dot1 {
 	position: absolute;
 	left: 397.18px;
-	top: 3583.69px;
+	top: 429.8px;
 }
 
 .dot2 {
 	position: absolute;
 	left: 397.18px;
-	top: 3653.69px;
+	top: 499.8px;
 }
 
 .dot3 {
 	position: absolute;
 	left: 748.18px;
-	top: 3261.69px;
+	top: 107.8px;
 }
 
 .dot4 {
 	position: absolute;
 	left: 748.18px;
-	top: 3303.69px;
+	top: 149.8px;
 }
 
 .dot5 {
 	position: absolute;
 	left: 1093px;
-	top: 3592.69px;
+	top: 438.8px;
 }
 
 .dot6 {
 	position: absolute;
 	left: 1093px;
-	top: 3636.69px;
+	top: 482.8px;
 }
 
 .dot7 {
 	position: absolute;
 	left: 1093px;
-	top: 3681.69px;
+	top: 527.8px;
 }
 
 .dot8 {
 	position: absolute;
 	left: 1440.87px;
-	top: 3275.1px;
+	top: 121.21px;
 }
 
 /* client section */
+
+#client{
+	position: absolute;
+	text-align: center;
+	top: 3821.89px;
+}
 
 .brand {
 	font-family: "gmarket-sans-medium";
@@ -618,202 +625,196 @@ p span {
 }
 
 .consumer-line {
-	top: 4359px;
+	top: 537.11px;
 }
 
 .education-line {
-	top: 4745px;
+	top: 923.11px;
 }
 
 .jc-line {
-	top: 4996px;
-}
-
-.client {
-	position: absolute;
-	left: 930.18px;
-	top: 3821.89px;
+	top: 1174.11px;
 }
 
 .technology {
 	position: absolute;
 	left: 255.18px;
-	top: 3878.69px;
+	top: 56.8px;
 }
 
 .consumer {
 	position: absolute;
 	left: 255.18px;
-	top: 4399.69px;
+	top: 577.8px;
 }
 
 .education {
 	position: absolute;
 	left: 255.18px;
-	top: 4785.69px;
+	top: 963.8px;
 }
 
 .jc {
 	position: absolute;
 	left: 255.18px;
-	top: 5036.69px;
+	top: 1214.8px;
 }
 
 
 .amd {
 	position: absolute;
 	left: 376px;
-	top: 3976px;
+	top: 154.11px;
 }
 
 .symantec {
 	position: absolute;
 	left: 715px;
-	top: 3970px;
+	top: 148.11px;
 }
 
 .intel {
 	position: absolute;
 	left: 1098px;
-	top: 3963px;
+	top: 141.11px;
 }
 
 .plantronics {
 	position: absolute;
 	left: 1436px;
-	top: 3981px;
+	top: 159.11px;
 }
 
 .gigabyte {
 	position: absolute;
 	left: 362px;
-	top: 4109px;
+	top: 287.11px;
 }
 
 .steelseries {
 	position: absolute;
 	left: 712px;
-	top: 4109px;
+	top: 287.11px;
 }
 
 .benq {
 	position: absolute;
 	left: 1094px;
-	top: 4110px;
+	top: 288.11px;
 }
 
 .itembay {
 	position: absolute;
 	left: 1443px;
-	top: 4111px;
+	top: 289.11px;
 }
 
 .nox {
 	position: absolute;
 	left: 364px;
-	top: 4242px;
+	top: 420.11px;
 }
 
 .dwcts {
 	position: absolute;
 	left: 717px;
-	top: 4242px;
+	top: 420.11px;
 }
 
 .kivic {
 	position: absolute;
 	left: 1102px;
-	top: 4245px;
+	top: 423.11px;
 }
 
 .gizmon {
 	position: absolute;
 	left: 1445px;
-	top: 4238px;
+	top: 416.11px;
 }
 
 .vitslaw {
 	position: absolute;
 	left: 346px;
-	top: 4487px;
+	top: 665.11px;
 }
 
 .tos {
 	position: absolute;
 	left: 763px;
-	top: 4486px;
+	top: 664.11px;
 }
 
 .blockware {
 	position: absolute;
 	left: 1076px;
-	top: 4498px;
+	top: 676.11px;
 }
 
 .eagon {
 	position: absolute;
 	left: 1459px;
-	top: 4486px;
+	top: 664.11px;
 }
 
 .kookdea {
 	position: absolute;
 	left: 348px;
-	top: 4632px;
+	top: 810.11px;
 }
 
 .chicken {
 	position: absolute;
 	left: 709px;
-	top: 4632px;
+	top: 810.11px;
 }
 
 .yakult {
 	position: absolute;
 	left: 1075px;
-	top: 4628px;
+	top: 806.11px;
 }
 
 .meail {
 	position: absolute;
 	left: 1433px;
-	top: 4633px;
+	top: 811.11px;
 }
 
 .superbook {
 	position: absolute;
 	left: 364px;
-	top: 4881px;
+	top: 1059.11px;
 }
 
 .woongjin {
 	position: absolute;
 	left: 717px;
-	top: 4860px;
+	top: 1038.11px;
 }
 
 .sungkyul {
 	position: absolute;
 	left: 1078px;
-	top: 4884px;
+	top: 1062.11px;
 }
 
 .test {
 	position: absolute;
 	left: 1414px;
-	top: 4884px;
+	top: 1062.11px;
 }
 
 .acrofan {
 	position: absolute;
 	left: 354px;
-	top: 5130px;
+	top: 1308.11px;
 }
 
 .cafe {
 	position: absolute;
 	left: 741px;
-	top: 5134px;
+	top: 1312.11px;
 }
 
 .cafe-name {
@@ -822,19 +823,19 @@ p span {
 	line-height: 64px;
 	position: absolute;
 	left: 784.64px;
-	top: 5114px;
+	top: 1292.11px;
 }
 
 .campingdeal {
 	position: absolute;
 	left: 1076px;
-	top: 5106px;
+	top: 1284.11px;
 }
 
 .jeonja {
 	position: absolute;
 	left: 1423px;
-	top: 5122px;
+	top: 1300.11px;
 }
 
 
