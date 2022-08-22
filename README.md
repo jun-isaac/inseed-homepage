@@ -24,13 +24,13 @@
 ```
 
 ## 포토샵 시안
-<img src="images/homepage.png" width="400">
+<img src="images/homepage.png" width="550">
 
 
 
 
 ## 완성한 페이지
-<img src="images/draft-proposal.png" width="400">
+<img src="images/draft-proposal.png" width="550">
 
 ------------------
 ## 💻 수정한 것
