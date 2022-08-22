@@ -121,28 +121,32 @@ header .eng {
 
 /* main section */
 
+#main {
+	position: relative;
+}
+
 .row1-img {
 	position: absolute;
-	top: 241px;
+	top: 141px;
 	left: 828px;
 	z-index: 2;
 }
 
 .row1-circle {
 	position: absolute;
-	top: 764px;
+	top: 664px;
 	left: 795px;
 }
 
 .row1-line {
 	position: absolute;
-	top: 245px;
+	top: 145px;
 	left: 909px;
 }
 
 .row1-point {
 	position: absolute;
-	top: 323px;
+	top: 223px;
 	left: 1631px;
 }
 
@@ -152,7 +156,7 @@ header .eng {
 	line-height: 66px;
 	position: absolute;
 	left: 198.18px;
-	top: 363.89px;
+	top: 263.89px;
 	width: 683.85px;
 }
 
@@ -162,7 +166,7 @@ header .eng {
 	line-height: 66px;
 	position: absolute;
 	left: 197.18px;
-	top: 708.89px;
+	top: 608.89px;
 	width: 497.77px;
 }
 
@@ -172,14 +176,14 @@ p span {
 
 .row2-img {
 	position: absolute;
-	top: 1146px;
+	top: 1046px;
 	left: 177px;
 	z-index: 1;
 }
 
 .row2-line {
 	position: absolute;
-	top: 1094px;
+	top: 994px;
 	left: 255px;
 }
 
@@ -189,7 +193,7 @@ p span {
 	line-height: 56px;
 	position: absolute;
 	left: 1038.18px;
-	top: 1200.89px;
+	top: 1100.89px;
 	width: 615.11px;
 }
 
@@ -199,7 +203,7 @@ p span {
 	line-height: 30px;
 	position: absolute;
 	left: 1039.18px;
-	top: 1451.3px;
+	top: 1351.3px;
 	width: 615.11px;
 	color: var(--sub-text-color);
 }
@@ -210,20 +214,20 @@ p span {
 	line-height: 56px;
 	position: absolute;
 	left: 1117.18px;
-	top: 1602.29px;
+	top: 1502.29px;
 	width: 526.95px;
 }
 
 .start-up {
 	position: absolute;
 	left: 1040px;
-	top: 1594px;
+	top: 1494px;
 }
 
 .half-arrow{
 	position: absolute;
 	left: 1653.18px;
-	top: 1620.29px;
+	top: 1520.29px;
 }
 
 .page {
@@ -244,13 +248,13 @@ p span {
 .about {
 	position: absolute;
 	left: 931.18px;
-	top: 0px;
+	top: 150px;
 }
 
 
 #banner img {
 	position: absolute;
-	top: 110px;
+	top: 260px;
 }
 
 #banner p:nth-child(3) {
@@ -260,7 +264,7 @@ p span {
 	color: #fff;
 	position: absolute;
 	left: 300.18px;
-	top: 146.89px;
+	top: 296.89px;
 }
 
 #banner p:nth-child(4) {
@@ -270,7 +274,7 @@ p span {
 	color: var(--sub-banner-color);
 	position: absolute;
 	left: 1053.68px;
-	top: 398.3px;
+	top: 548.3px;
 	width: 576.5px;
 	text-align: right;
 }
@@ -282,7 +286,7 @@ p span {
 	color: var(--main-text-color);
 	position: absolute;
 	left: 647.18px;
-	top: 581.3px;
+	top: 731.3px;
 	width: 625.19px;
 }
 
@@ -291,7 +295,7 @@ p span {
 #service {
 	position: absolute;
 	text-align: center;
-	top: 2586.89px;
+	top: 2736.89px;
 }
 
 
@@ -441,7 +445,7 @@ p span {
 #process {
 	position: absolute;
 	text-align: center;
-	top: 3173.89px;
+	top: 3323.89px;
 }
 
 .arrow {
@@ -610,7 +614,7 @@ p span {
 #client{
 	position: absolute;
 	text-align: center;
-	top: 3821.89px;
+	top: 3971.89px;
 }
 
 .brand {
