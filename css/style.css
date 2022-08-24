@@ -248,13 +248,13 @@ p span {
 .about {
 	position: absolute;
 	left: 931.18px;
-	top: 130px;
+	top: 80px;
 }
 
 
 #banner img {
 	position: absolute;
-	top: 240px;
+	top: 190px;
 }
 
 #banner p:nth-child(3) {
@@ -264,7 +264,7 @@ p span {
 	color: #fff;
 	position: absolute;
 	left: 300.18px;
-	top: 276.89px;
+	top: 226.89px;
 }
 
 #banner p:nth-child(4) {
@@ -274,7 +274,7 @@ p span {
 	color: var(--sub-banner-color);
 	position: absolute;
 	left: 1053.68px;
-	top: 528.3px;
+	top: 478.3px;
 	width: 576.5px;
 	text-align: right;
 }
@@ -286,7 +286,7 @@ p span {
 	color: var(--main-text-color);
 	position: absolute;
 	left: 647.18px;
-	top: 711.3px;
+	top: 661.3px;
 	width: 625.19px;
 }
 
@@ -295,7 +295,7 @@ p span {
 #service {
 	position: absolute;
 	text-align: center;
-	top: 2736.89px;
+	top: 2686.89px;
 }
 
 
