@@ -254,7 +254,7 @@ p span {
 
 #banner img {
 	position: absolute;
-	top: 150px;
+	top: 140px;
 }
 
 #banner p:nth-child(3) {
@@ -264,7 +264,7 @@ p span {
 	color: #fff;
 	position: absolute;
 	left: 300.18px;
-	top: 186.89px;
+	top: 176.89px;
 }
 
 #banner p:nth-child(4) {
@@ -274,7 +274,7 @@ p span {
 	color: var(--sub-banner-color);
 	position: absolute;
 	left: 1053.68px;
-	top: 438.3px;
+	top: 428.3px;
 	width: 576.5px;
 	text-align: right;
 }
@@ -286,7 +286,7 @@ p span {
 	color: var(--main-text-color);
 	position: absolute;
 	left: 647.18px;
-	top: 621.3px;
+	top: 611.3px;
 	width: 625.19px;
 }
 
@@ -295,7 +295,7 @@ p span {
 #service {
 	position: absolute;
 	text-align: center;
-	top: 2646.89px;
+	top: 2616.89px;
 }
 
 
@@ -445,7 +445,7 @@ p span {
 #process {
 	position: absolute;
 	text-align: center;
-	top: 3223.89px;
+	top: 3193.89px;
 }
 
 .arrow {
@@ -614,7 +614,7 @@ p span {
 #client{
 	position: absolute;
 	text-align: center;
-	top: 3871.89px;
+	top: 3841.89px;
 }
 
 .brand {
@@ -853,7 +853,7 @@ footer {
 	height: 336px;
 	background: var(--footer-color);
 	position: relative;
-	top: 5250px;
+	top: 5220px;
 	color: #fff;
 }
 
