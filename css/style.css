@@ -931,3 +931,53 @@ footer .copy {
 	width: 1920px;
 	text-align: center;
 }
+
+
+/* map */
+
+#map {
+	width: 700px;
+	height: 580px;
+	border: 1px solid black;
+	border-radius: 15px;
+	position: absolute;
+	background: #fff;
+
+	left: 600px;
+	bottom: 400px;
+	display: none;
+}
+
+#map.on {
+	display: block;
+}
+
+#map > h1 {
+	position: absolute;
+	top: 30px;
+	left: 50px;
+	color: #000;
+}
+
+#map iframe {
+	position: absolute;
+	top: 70px;
+	left: 50px;
+}
+
+.close {
+	color: #000;
+	border: 0.3px solid black;
+	width: 70px;
+	height: 30px;
+	padding: 5px;
+	font-size: 16px;
+	text-align: center;
+	line-height: 20px;
+	border-radius: 5px;
+	background: #fff;
+
+	position: absolute;
+	top: 25px;
+	right: 45px;
+}
